@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "DG Secure Server",
+    "iconName": "DGlogo.webp",
+    "terminalID": "Acess point Romero",
     "defaultUser": {
         "userId": "user",
         "password": "",
